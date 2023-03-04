@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NetflixCards/static/css/main.5605b28d.css",
+    "main.js": "/NetflixCards/static/js/main.ed6b8343.js",
+    "index.html": "/NetflixCards/index.html",
+    "main.5605b28d.css.map": "/NetflixCards/static/css/main.5605b28d.css.map",
+    "main.ed6b8343.js.map": "/NetflixCards/static/js/main.ed6b8343.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5605b28d.css",
+    "static/js/main.ed6b8343.js"
+  ]
+}
