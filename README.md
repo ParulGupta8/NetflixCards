@@ -1,3 +1,6 @@
+Check the Project preview by clickng on the c link..[ https://parulgupta8.github.io/NetflixCards/]( https://parulgupta8.github.io/NetflixCards/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
